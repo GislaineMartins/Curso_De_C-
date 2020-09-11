@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\Aula136ExerResolvido\Aula136ExerResolvido\bin\Debug\netcoreapp3.1\Aula136ExerResolvido.exe
+C:\temp\ws-vs2019\Aula136ExerResolvido\Aula136ExerResolvido\bin\Debug\netcoreapp3.1\Aula136ExerResolvido.deps.json
+C:\temp\ws-vs2019\Aula136ExerResolvido\Aula136ExerResolvido\bin\Debug\netcoreapp3.1\Aula136ExerResolvido.runtimeconfig.json
+C:\temp\ws-vs2019\Aula136ExerResolvido\Aula136ExerResolvido\bin\Debug\netcoreapp3.1\Aula136ExerResolvido.runtimeconfig.dev.json
+C:\temp\ws-vs2019\Aula136ExerResolvido\Aula136ExerResolvido\bin\Debug\netcoreapp3.1\Aula136ExerResolvido.dll
+C:\temp\ws-vs2019\Aula136ExerResolvido\Aula136ExerResolvido\bin\Debug\netcoreapp3.1\Aula136ExerResolvido.pdb
+C:\temp\ws-vs2019\Aula136ExerResolvido\Aula136ExerResolvido\obj\Debug\netcoreapp3.1\Aula136ExerResolvido.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\Aula136ExerResolvido\Aula136ExerResolvido\obj\Debug\netcoreapp3.1\Aula136ExerResolvido.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\Aula136ExerResolvido\Aula136ExerResolvido\obj\Debug\netcoreapp3.1\Aula136ExerResolvido.AssemblyInfo.cs
+C:\temp\ws-vs2019\Aula136ExerResolvido\Aula136ExerResolvido\obj\Debug\netcoreapp3.1\Aula136ExerResolvido.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Aula136ExerResolvido\Aula136ExerResolvido\obj\Debug\netcoreapp3.1\Aula136ExerResolvido.dll
+C:\temp\ws-vs2019\Aula136ExerResolvido\Aula136ExerResolvido\obj\Debug\netcoreapp3.1\Aula136ExerResolvido.pdb
+C:\temp\ws-vs2019\Aula136ExerResolvido\Aula136ExerResolvido\obj\Debug\netcoreapp3.1\Aula136ExerResolvido.genruntimeconfig.cache

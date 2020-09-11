@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\ListaExerc05\ListaExerc05\bin\Debug\netcoreapp3.1\ListaExerc05.exe
+C:\temp\ws-vs2019\ListaExerc05\ListaExerc05\bin\Debug\netcoreapp3.1\ListaExerc05.deps.json
+C:\temp\ws-vs2019\ListaExerc05\ListaExerc05\bin\Debug\netcoreapp3.1\ListaExerc05.runtimeconfig.json
+C:\temp\ws-vs2019\ListaExerc05\ListaExerc05\bin\Debug\netcoreapp3.1\ListaExerc05.runtimeconfig.dev.json
+C:\temp\ws-vs2019\ListaExerc05\ListaExerc05\bin\Debug\netcoreapp3.1\ListaExerc05.dll
+C:\temp\ws-vs2019\ListaExerc05\ListaExerc05\bin\Debug\netcoreapp3.1\ListaExerc05.pdb
+C:\temp\ws-vs2019\ListaExerc05\ListaExerc05\obj\Debug\netcoreapp3.1\ListaExerc05.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\ListaExerc05\ListaExerc05\obj\Debug\netcoreapp3.1\ListaExerc05.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\ListaExerc05\ListaExerc05\obj\Debug\netcoreapp3.1\ListaExerc05.AssemblyInfo.cs
+C:\temp\ws-vs2019\ListaExerc05\ListaExerc05\obj\Debug\netcoreapp3.1\ListaExerc05.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\ListaExerc05\ListaExerc05\obj\Debug\netcoreapp3.1\ListaExerc05.dll
+C:\temp\ws-vs2019\ListaExerc05\ListaExerc05\obj\Debug\netcoreapp3.1\ListaExerc05.pdb
+C:\temp\ws-vs2019\ListaExerc05\ListaExerc05\obj\Debug\netcoreapp3.1\ListaExerc05.genruntimeconfig.cache

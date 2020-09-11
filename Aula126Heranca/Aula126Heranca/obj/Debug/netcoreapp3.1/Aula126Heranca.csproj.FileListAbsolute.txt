@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\Aula126Heranca\Aula126Heranca\bin\Debug\netcoreapp3.1\Aula126Heranca.exe
+C:\temp\ws-vs2019\Aula126Heranca\Aula126Heranca\bin\Debug\netcoreapp3.1\Aula126Heranca.deps.json
+C:\temp\ws-vs2019\Aula126Heranca\Aula126Heranca\bin\Debug\netcoreapp3.1\Aula126Heranca.runtimeconfig.json
+C:\temp\ws-vs2019\Aula126Heranca\Aula126Heranca\bin\Debug\netcoreapp3.1\Aula126Heranca.runtimeconfig.dev.json
+C:\temp\ws-vs2019\Aula126Heranca\Aula126Heranca\bin\Debug\netcoreapp3.1\Aula126Heranca.dll
+C:\temp\ws-vs2019\Aula126Heranca\Aula126Heranca\bin\Debug\netcoreapp3.1\Aula126Heranca.pdb
+C:\temp\ws-vs2019\Aula126Heranca\Aula126Heranca\obj\Debug\netcoreapp3.1\Aula126Heranca.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\Aula126Heranca\Aula126Heranca\obj\Debug\netcoreapp3.1\Aula126Heranca.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\Aula126Heranca\Aula126Heranca\obj\Debug\netcoreapp3.1\Aula126Heranca.AssemblyInfo.cs
+C:\temp\ws-vs2019\Aula126Heranca\Aula126Heranca\obj\Debug\netcoreapp3.1\Aula126Heranca.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Aula126Heranca\Aula126Heranca\obj\Debug\netcoreapp3.1\Aula126Heranca.dll
+C:\temp\ws-vs2019\Aula126Heranca\Aula126Heranca\obj\Debug\netcoreapp3.1\Aula126Heranca.pdb
+C:\temp\ws-vs2019\Aula126Heranca\Aula126Heranca\obj\Debug\netcoreapp3.1\Aula126Heranca.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\Aula76Lista\Aula76Lista\bin\Debug\netcoreapp3.1\Aula76Lista.exe
+C:\temp\ws-vs2019\Aula76Lista\Aula76Lista\bin\Debug\netcoreapp3.1\Aula76Lista.deps.json
+C:\temp\ws-vs2019\Aula76Lista\Aula76Lista\bin\Debug\netcoreapp3.1\Aula76Lista.runtimeconfig.json
+C:\temp\ws-vs2019\Aula76Lista\Aula76Lista\bin\Debug\netcoreapp3.1\Aula76Lista.runtimeconfig.dev.json
+C:\temp\ws-vs2019\Aula76Lista\Aula76Lista\bin\Debug\netcoreapp3.1\Aula76Lista.dll
+C:\temp\ws-vs2019\Aula76Lista\Aula76Lista\bin\Debug\netcoreapp3.1\Aula76Lista.pdb
+C:\temp\ws-vs2019\Aula76Lista\Aula76Lista\obj\Debug\netcoreapp3.1\Aula76Lista.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\Aula76Lista\Aula76Lista\obj\Debug\netcoreapp3.1\Aula76Lista.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\Aula76Lista\Aula76Lista\obj\Debug\netcoreapp3.1\Aula76Lista.AssemblyInfo.cs
+C:\temp\ws-vs2019\Aula76Lista\Aula76Lista\obj\Debug\netcoreapp3.1\Aula76Lista.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Aula76Lista\Aula76Lista\obj\Debug\netcoreapp3.1\Aula76Lista.dll
+C:\temp\ws-vs2019\Aula76Lista\Aula76Lista\obj\Debug\netcoreapp3.1\Aula76Lista.pdb
+C:\temp\ws-vs2019\Aula76Lista\Aula76Lista\obj\Debug\netcoreapp3.1\Aula76Lista.genruntimeconfig.cache

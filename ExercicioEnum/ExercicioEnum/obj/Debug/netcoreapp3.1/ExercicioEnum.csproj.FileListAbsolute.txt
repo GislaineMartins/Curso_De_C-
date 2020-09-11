@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.exe
+C:\temp\ws-vs2019\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.deps.json
+C:\temp\ws-vs2019\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.runtimeconfig.json
+C:\temp\ws-vs2019\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.runtimeconfig.dev.json
+C:\temp\ws-vs2019\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.dll
+C:\temp\ws-vs2019\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.pdb
+C:\temp\ws-vs2019\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.AssemblyInfo.cs
+C:\temp\ws-vs2019\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.dll
+C:\temp\ws-vs2019\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.pdb
+C:\temp\ws-vs2019\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.genruntimeconfig.cache

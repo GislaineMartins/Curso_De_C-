@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\Exer01\Exer01\bin\Debug\netcoreapp3.1\Exer01.exe
+C:\temp\ws-vs2019\Exer01\Exer01\bin\Debug\netcoreapp3.1\Exer01.deps.json
+C:\temp\ws-vs2019\Exer01\Exer01\bin\Debug\netcoreapp3.1\Exer01.runtimeconfig.json
+C:\temp\ws-vs2019\Exer01\Exer01\bin\Debug\netcoreapp3.1\Exer01.runtimeconfig.dev.json
+C:\temp\ws-vs2019\Exer01\Exer01\bin\Debug\netcoreapp3.1\Exer01.dll
+C:\temp\ws-vs2019\Exer01\Exer01\bin\Debug\netcoreapp3.1\Exer01.pdb
+C:\temp\ws-vs2019\Exer01\Exer01\obj\Debug\netcoreapp3.1\Exer01.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\Exer01\Exer01\obj\Debug\netcoreapp3.1\Exer01.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\Exer01\Exer01\obj\Debug\netcoreapp3.1\Exer01.AssemblyInfo.cs
+C:\temp\ws-vs2019\Exer01\Exer01\obj\Debug\netcoreapp3.1\Exer01.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Exer01\Exer01\obj\Debug\netcoreapp3.1\Exer01.dll
+C:\temp\ws-vs2019\Exer01\Exer01\obj\Debug\netcoreapp3.1\Exer01.pdb
+C:\temp\ws-vs2019\Exer01\Exer01\obj\Debug\netcoreapp3.1\Exer01.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\Aula30\Aula30\bin\Debug\netcoreapp3.1\Aula30.exe
+C:\temp\ws-vs2019\Aula30\Aula30\bin\Debug\netcoreapp3.1\Aula30.deps.json
+C:\temp\ws-vs2019\Aula30\Aula30\bin\Debug\netcoreapp3.1\Aula30.runtimeconfig.json
+C:\temp\ws-vs2019\Aula30\Aula30\bin\Debug\netcoreapp3.1\Aula30.runtimeconfig.dev.json
+C:\temp\ws-vs2019\Aula30\Aula30\bin\Debug\netcoreapp3.1\Aula30.dll
+C:\temp\ws-vs2019\Aula30\Aula30\bin\Debug\netcoreapp3.1\Aula30.pdb
+C:\temp\ws-vs2019\Aula30\Aula30\obj\Debug\netcoreapp3.1\Aula30.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\Aula30\Aula30\obj\Debug\netcoreapp3.1\Aula30.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\Aula30\Aula30\obj\Debug\netcoreapp3.1\Aula30.AssemblyInfo.cs
+C:\temp\ws-vs2019\Aula30\Aula30\obj\Debug\netcoreapp3.1\Aula30.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Aula30\Aula30\obj\Debug\netcoreapp3.1\Aula30.dll
+C:\temp\ws-vs2019\Aula30\Aula30\obj\Debug\netcoreapp3.1\Aula30.pdb
+C:\temp\ws-vs2019\Aula30\Aula30\obj\Debug\netcoreapp3.1\Aula30.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\Aula56\Aula56\bin\Debug\netcoreapp3.1\Aula56.exe
+C:\temp\ws-vs2019\Aula56\Aula56\bin\Debug\netcoreapp3.1\Aula56.deps.json
+C:\temp\ws-vs2019\Aula56\Aula56\bin\Debug\netcoreapp3.1\Aula56.runtimeconfig.json
+C:\temp\ws-vs2019\Aula56\Aula56\bin\Debug\netcoreapp3.1\Aula56.runtimeconfig.dev.json
+C:\temp\ws-vs2019\Aula56\Aula56\bin\Debug\netcoreapp3.1\Aula56.dll
+C:\temp\ws-vs2019\Aula56\Aula56\bin\Debug\netcoreapp3.1\Aula56.pdb
+C:\temp\ws-vs2019\Aula56\Aula56\obj\Debug\netcoreapp3.1\Aula56.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\Aula56\Aula56\obj\Debug\netcoreapp3.1\Aula56.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\Aula56\Aula56\obj\Debug\netcoreapp3.1\Aula56.AssemblyInfo.cs
+C:\temp\ws-vs2019\Aula56\Aula56\obj\Debug\netcoreapp3.1\Aula56.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Aula56\Aula56\obj\Debug\netcoreapp3.1\Aula56.dll
+C:\temp\ws-vs2019\Aula56\Aula56\obj\Debug\netcoreapp3.1\Aula56.pdb
+C:\temp\ws-vs2019\Aula56\Aula56\obj\Debug\netcoreapp3.1\Aula56.genruntimeconfig.cache

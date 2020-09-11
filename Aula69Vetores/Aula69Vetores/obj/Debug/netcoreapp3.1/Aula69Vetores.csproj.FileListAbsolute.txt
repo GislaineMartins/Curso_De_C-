@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\Aula69Vetores\Aula69Vetores\bin\Debug\netcoreapp3.1\Aula69Vetores.exe
+C:\temp\ws-vs2019\Aula69Vetores\Aula69Vetores\bin\Debug\netcoreapp3.1\Aula69Vetores.deps.json
+C:\temp\ws-vs2019\Aula69Vetores\Aula69Vetores\bin\Debug\netcoreapp3.1\Aula69Vetores.runtimeconfig.json
+C:\temp\ws-vs2019\Aula69Vetores\Aula69Vetores\bin\Debug\netcoreapp3.1\Aula69Vetores.runtimeconfig.dev.json
+C:\temp\ws-vs2019\Aula69Vetores\Aula69Vetores\bin\Debug\netcoreapp3.1\Aula69Vetores.dll
+C:\temp\ws-vs2019\Aula69Vetores\Aula69Vetores\bin\Debug\netcoreapp3.1\Aula69Vetores.pdb
+C:\temp\ws-vs2019\Aula69Vetores\Aula69Vetores\obj\Debug\netcoreapp3.1\Aula69Vetores.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\Aula69Vetores\Aula69Vetores\obj\Debug\netcoreapp3.1\Aula69Vetores.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\Aula69Vetores\Aula69Vetores\obj\Debug\netcoreapp3.1\Aula69Vetores.AssemblyInfo.cs
+C:\temp\ws-vs2019\Aula69Vetores\Aula69Vetores\obj\Debug\netcoreapp3.1\Aula69Vetores.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Aula69Vetores\Aula69Vetores\obj\Debug\netcoreapp3.1\Aula69Vetores.dll
+C:\temp\ws-vs2019\Aula69Vetores\Aula69Vetores\obj\Debug\netcoreapp3.1\Aula69Vetores.pdb
+C:\temp\ws-vs2019\Aula69Vetores\Aula69Vetores\obj\Debug\netcoreapp3.1\Aula69Vetores.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\Aula61Exer\Aula61Exer\bin\Debug\netcoreapp3.1\Aula61Exer.exe
+C:\temp\ws-vs2019\Aula61Exer\Aula61Exer\bin\Debug\netcoreapp3.1\Aula61Exer.deps.json
+C:\temp\ws-vs2019\Aula61Exer\Aula61Exer\bin\Debug\netcoreapp3.1\Aula61Exer.runtimeconfig.json
+C:\temp\ws-vs2019\Aula61Exer\Aula61Exer\bin\Debug\netcoreapp3.1\Aula61Exer.runtimeconfig.dev.json
+C:\temp\ws-vs2019\Aula61Exer\Aula61Exer\bin\Debug\netcoreapp3.1\Aula61Exer.dll
+C:\temp\ws-vs2019\Aula61Exer\Aula61Exer\bin\Debug\netcoreapp3.1\Aula61Exer.pdb
+C:\temp\ws-vs2019\Aula61Exer\Aula61Exer\obj\Debug\netcoreapp3.1\Aula61Exer.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\Aula61Exer\Aula61Exer\obj\Debug\netcoreapp3.1\Aula61Exer.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\Aula61Exer\Aula61Exer\obj\Debug\netcoreapp3.1\Aula61Exer.AssemblyInfo.cs
+C:\temp\ws-vs2019\Aula61Exer\Aula61Exer\obj\Debug\netcoreapp3.1\Aula61Exer.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Aula61Exer\Aula61Exer\obj\Debug\netcoreapp3.1\Aula61Exer.dll
+C:\temp\ws-vs2019\Aula61Exer\Aula61Exer\obj\Debug\netcoreapp3.1\Aula61Exer.pdb
+C:\temp\ws-vs2019\Aula61Exer\Aula61Exer\obj\Debug\netcoreapp3.1\Aula61Exer.genruntimeconfig.cache

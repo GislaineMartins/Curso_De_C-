@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\ExercFixacaoVetores\ExercFixacaoVetores\bin\Debug\netcoreapp3.1\ExercFixacaoVetores.exe
+C:\temp\ws-vs2019\ExercFixacaoVetores\ExercFixacaoVetores\bin\Debug\netcoreapp3.1\ExercFixacaoVetores.deps.json
+C:\temp\ws-vs2019\ExercFixacaoVetores\ExercFixacaoVetores\bin\Debug\netcoreapp3.1\ExercFixacaoVetores.runtimeconfig.json
+C:\temp\ws-vs2019\ExercFixacaoVetores\ExercFixacaoVetores\bin\Debug\netcoreapp3.1\ExercFixacaoVetores.runtimeconfig.dev.json
+C:\temp\ws-vs2019\ExercFixacaoVetores\ExercFixacaoVetores\bin\Debug\netcoreapp3.1\ExercFixacaoVetores.dll
+C:\temp\ws-vs2019\ExercFixacaoVetores\ExercFixacaoVetores\bin\Debug\netcoreapp3.1\ExercFixacaoVetores.pdb
+C:\temp\ws-vs2019\ExercFixacaoVetores\ExercFixacaoVetores\obj\Debug\netcoreapp3.1\ExercFixacaoVetores.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\ExercFixacaoVetores\ExercFixacaoVetores\obj\Debug\netcoreapp3.1\ExercFixacaoVetores.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\ExercFixacaoVetores\ExercFixacaoVetores\obj\Debug\netcoreapp3.1\ExercFixacaoVetores.AssemblyInfo.cs
+C:\temp\ws-vs2019\ExercFixacaoVetores\ExercFixacaoVetores\obj\Debug\netcoreapp3.1\ExercFixacaoVetores.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\ExercFixacaoVetores\ExercFixacaoVetores\obj\Debug\netcoreapp3.1\ExercFixacaoVetores.dll
+C:\temp\ws-vs2019\ExercFixacaoVetores\ExercFixacaoVetores\obj\Debug\netcoreapp3.1\ExercFixacaoVetores.pdb
+C:\temp\ws-vs2019\ExercFixacaoVetores\ExercFixacaoVetores\obj\Debug\netcoreapp3.1\ExercFixacaoVetores.genruntimeconfig.cache

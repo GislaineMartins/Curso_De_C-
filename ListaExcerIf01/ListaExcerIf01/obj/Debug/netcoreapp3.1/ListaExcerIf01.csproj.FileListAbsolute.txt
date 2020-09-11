@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\ListaExcerIf01\ListaExcerIf01\obj\Debug\netcoreapp3.1\ListaExcerIf01.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\ListaExcerIf01\ListaExcerIf01\obj\Debug\netcoreapp3.1\ListaExcerIf01.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\ListaExcerIf01\ListaExcerIf01\obj\Debug\netcoreapp3.1\ListaExcerIf01.AssemblyInfo.cs
+C:\temp\ws-vs2019\ListaExcerIf01\ListaExcerIf01\obj\Debug\netcoreapp3.1\ListaExcerIf01.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\ListaExcerIf01\ListaExcerIf01\bin\Debug\netcoreapp3.1\ListaExcerIf01.exe
+C:\temp\ws-vs2019\ListaExcerIf01\ListaExcerIf01\bin\Debug\netcoreapp3.1\ListaExcerIf01.deps.json
+C:\temp\ws-vs2019\ListaExcerIf01\ListaExcerIf01\bin\Debug\netcoreapp3.1\ListaExcerIf01.runtimeconfig.json
+C:\temp\ws-vs2019\ListaExcerIf01\ListaExcerIf01\bin\Debug\netcoreapp3.1\ListaExcerIf01.runtimeconfig.dev.json
+C:\temp\ws-vs2019\ListaExcerIf01\ListaExcerIf01\bin\Debug\netcoreapp3.1\ListaExcerIf01.dll
+C:\temp\ws-vs2019\ListaExcerIf01\ListaExcerIf01\bin\Debug\netcoreapp3.1\ListaExcerIf01.pdb
+C:\temp\ws-vs2019\ListaExcerIf01\ListaExcerIf01\obj\Debug\netcoreapp3.1\ListaExcerIf01.dll
+C:\temp\ws-vs2019\ListaExcerIf01\ListaExcerIf01\obj\Debug\netcoreapp3.1\ListaExcerIf01.pdb
+C:\temp\ws-vs2019\ListaExcerIf01\ListaExcerIf01\obj\Debug\netcoreapp3.1\ListaExcerIf01.genruntimeconfig.cache
