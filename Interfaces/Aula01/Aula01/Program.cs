@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Aula01.Entities;
+using Aula01.service;
+using System;
 using System.Globalization;
 
 namespace Aula01 {
@@ -8,9 +10,25 @@ namespace Aula01 {
             Console.WriteLine("Car model: ");
             string model = Console.ReadLine();
             Console.WriteLine("Pickup (dd/MM/yyyy hh:mm): ");
-            DateTime start = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy HH:mm", CultureInfo.InvariantCulture);
+            DateTime start = DateTime.ParseExact(Console.ReadLine(), 
+            "dd/MM/yyyy HH:mm", CultureInfo.InvariantCulture);
             Console.WriteLine("Return (dd/MM/yyyy hh:mm): ");
-            DateTime finish = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy HH:mm", CultureInfo.InvariantCulture);
+            DateTime finish = DateTime.ParseExact(Console.ReadLine(), 
+            "dd/MM/yyyy HH:mm", CultureInfo.InvariantCulture);
+
+            Console.WriteLine("Enter price per hour: ");
+            double hour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("Enter price per day: ");
+            double day = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            CarRental carRental = new CarRental(start, finish, new Vehicle(model));
+            RentalService rentalService = new RentalService(hour, day);
+
+            rentalService.ProcessInvoice(carRental);
+            Console.WriteLine("INVOICE: ");
+            Console.WriteLine(carRental.Invoice);
+
+
 
 
 

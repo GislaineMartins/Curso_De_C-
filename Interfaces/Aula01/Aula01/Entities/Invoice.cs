@@ -23,7 +23,7 @@ namespace Aula01.Entities {
                 + "\nTax: "
                 + Tax.ToString("F2", CultureInfo.InvariantCulture)
                 + "\nTotal payment: "
-                + ("F2", CultureInfo.InvariantCulture);
+                + TatalPayment.ToString("F2", CultureInfo.InvariantCulture);
         }
 
 
