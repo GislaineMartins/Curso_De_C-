@@ -4,7 +4,7 @@ using System.Globalization;
 using System.Text;
 
 namespace Aula02.model.entities {
-    class Circle : Shape {
+    class Circle : AbstractShape {
         public double Radius { get; set; }
 
         public override double Area() {

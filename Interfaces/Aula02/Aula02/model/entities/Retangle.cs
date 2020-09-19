@@ -4,7 +4,7 @@ using System.Globalization;
 using System.Text;
 
 namespace Aula02.model.entities {
-    class Retangle : Shape {
+    class Retangle : AbstractShape {
 
         public double Width { get; set; }
         public double Height { get; set; }
