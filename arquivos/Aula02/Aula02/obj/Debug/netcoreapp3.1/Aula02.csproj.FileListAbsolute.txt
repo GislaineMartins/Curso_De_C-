@@ -1,0 +1,13 @@
+C:\Users\gimcj\Documents\temp\ws-vs2019\Curso_De_C-\arquivos\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.exe
+C:\Users\gimcj\Documents\temp\ws-vs2019\Curso_De_C-\arquivos\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.deps.json
+C:\Users\gimcj\Documents\temp\ws-vs2019\Curso_De_C-\arquivos\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.runtimeconfig.json
+C:\Users\gimcj\Documents\temp\ws-vs2019\Curso_De_C-\arquivos\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.runtimeconfig.dev.json
+C:\Users\gimcj\Documents\temp\ws-vs2019\Curso_De_C-\arquivos\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.dll
+C:\Users\gimcj\Documents\temp\ws-vs2019\Curso_De_C-\arquivos\Aula02\Aula02\bin\Debug\netcoreapp3.1\Aula02.pdb
+C:\Users\gimcj\Documents\temp\ws-vs2019\Curso_De_C-\arquivos\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.csprojAssemblyReference.cache
+C:\Users\gimcj\Documents\temp\ws-vs2019\Curso_De_C-\arquivos\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.AssemblyInfoInputs.cache
+C:\Users\gimcj\Documents\temp\ws-vs2019\Curso_De_C-\arquivos\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.AssemblyInfo.cs
+C:\Users\gimcj\Documents\temp\ws-vs2019\Curso_De_C-\arquivos\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.csproj.CoreCompileInputs.cache
+C:\Users\gimcj\Documents\temp\ws-vs2019\Curso_De_C-\arquivos\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.dll
+C:\Users\gimcj\Documents\temp\ws-vs2019\Curso_De_C-\arquivos\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.pdb
+C:\Users\gimcj\Documents\temp\ws-vs2019\Curso_De_C-\arquivos\Aula02\Aula02\obj\Debug\netcoreapp3.1\Aula02.genruntimeconfig.cache
