@@ -22,7 +22,7 @@ namespace Aula02 {
 
             CalculationService calculationService = new CalculationService();
 
-            int max = calculationService.Max(list);
+            Product max = calculationService.Max(list);
 
             Console.WriteLine("Max: ");
             Console.WriteLine(max);
