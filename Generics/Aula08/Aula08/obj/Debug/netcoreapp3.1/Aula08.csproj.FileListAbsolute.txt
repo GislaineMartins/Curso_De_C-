@@ -1,0 +1,12 @@
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula08\Aula08\bin\Debug\netcoreapp3.1\Aula08.exe
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula08\Aula08\bin\Debug\netcoreapp3.1\Aula08.deps.json
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula08\Aula08\bin\Debug\netcoreapp3.1\Aula08.runtimeconfig.json
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula08\Aula08\bin\Debug\netcoreapp3.1\Aula08.runtimeconfig.dev.json
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula08\Aula08\bin\Debug\netcoreapp3.1\Aula08.dll
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula08\Aula08\bin\Debug\netcoreapp3.1\Aula08.pdb
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.AssemblyInfoInputs.cache
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.AssemblyInfo.cs
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.csproj.CoreCompileInputs.cache
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.dll
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.pdb
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula08\Aula08\obj\Debug\netcoreapp3.1\Aula08.genruntimeconfig.cache
