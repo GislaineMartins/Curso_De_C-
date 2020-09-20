@@ -17,7 +17,7 @@ using System.ComponentModel;
 namespace Aula01 {
     class Program {
         static void Main(string[] args) {
-            PrintService printService = new PrintService();
+            PrintService<int> printService = new PrintService<int>();
 
             Console.WriteLine("How many values? ");
             int n = int.Parse(Console.ReadLine());
@@ -26,6 +26,7 @@ namespace Aula01 {
                 int x = int.Parse(Console.ReadLine());
                 printService.AddValue(x);
             }
+            
             printService.Print();
             Console.WriteLine("First: "+printService.First());
         }

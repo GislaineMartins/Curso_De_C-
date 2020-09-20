@@ -10,3 +10,4 @@ C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula01\Aula01\obj\Debug\netco
 C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula01\Aula01\obj\Debug\netcoreapp3.1\Aula01.dll
 C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula01\Aula01\obj\Debug\netcoreapp3.1\Aula01.pdb
 C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula01\Aula01\obj\Debug\netcoreapp3.1\Aula01.genruntimeconfig.cache
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula01\Aula01\obj\Debug\netcoreapp3.1\Aula01.csprojAssemblyReference.cache
