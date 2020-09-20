@@ -1,0 +1,13 @@
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.exe
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.deps.json
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.runtimeconfig.json
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.runtimeconfig.dev.json
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.dll
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula04\Aula04\bin\Debug\netcoreapp3.1\Aula04.pdb
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.csprojAssemblyReference.cache
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.AssemblyInfoInputs.cache
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.AssemblyInfo.cs
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.csproj.CoreCompileInputs.cache
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.dll
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.pdb
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Generics\Aula04\Aula04\obj\Debug\netcoreapp3.1\Aula04.genruntimeconfig.cache
