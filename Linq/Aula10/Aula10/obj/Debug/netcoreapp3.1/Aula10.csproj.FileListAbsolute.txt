@@ -1,0 +1,13 @@
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Linq\Aula10\Aula10\obj\Debug\netcoreapp3.1\Aula10.csprojAssemblyReference.cache
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Linq\Aula10\Aula10\obj\Debug\netcoreapp3.1\Aula10.AssemblyInfoInputs.cache
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Linq\Aula10\Aula10\obj\Debug\netcoreapp3.1\Aula10.AssemblyInfo.cs
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Linq\Aula10\Aula10\obj\Debug\netcoreapp3.1\Aula10.csproj.CoreCompileInputs.cache
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Linq\Aula10\Aula10\bin\Debug\netcoreapp3.1\Aula10.exe
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Linq\Aula10\Aula10\bin\Debug\netcoreapp3.1\Aula10.deps.json
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Linq\Aula10\Aula10\bin\Debug\netcoreapp3.1\Aula10.runtimeconfig.json
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Linq\Aula10\Aula10\bin\Debug\netcoreapp3.1\Aula10.runtimeconfig.dev.json
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Linq\Aula10\Aula10\bin\Debug\netcoreapp3.1\Aula10.dll
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Linq\Aula10\Aula10\bin\Debug\netcoreapp3.1\Aula10.pdb
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Linq\Aula10\Aula10\obj\Debug\netcoreapp3.1\Aula10.dll
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Linq\Aula10\Aula10\obj\Debug\netcoreapp3.1\Aula10.pdb
+C:\Users\gimcj\Documents\temp\Curso_De_C-\Linq\Aula10\Aula10\obj\Debug\netcoreapp3.1\Aula10.genruntimeconfig.cache
